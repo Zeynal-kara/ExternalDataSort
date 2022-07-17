@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\DataSortAlgorithm-main\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\asus\\Desktop\\DataSortAlgorithm-main\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\DataSortAlgorithm-main\\Core\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

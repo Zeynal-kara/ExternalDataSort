@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmTest", "AlgorithmTest\AlgorithmTest.csproj", "{F0C6BDF1-C144-4F20-8652-7BE19D7DBAF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmTest", "AlgorithmTest\AlgorithmTest.csproj", "{F0C6BDF1-C144-4F20-8652-7BE19D7DBAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{693415D3-0733-4C21-9971-4ADEE229081E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{693415D3-0733-4C21-9971-4ADEE229081E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

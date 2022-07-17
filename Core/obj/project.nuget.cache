@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "brglvC5iS3zQ3ZijM7LrRW109kJcbBQn1oxN5gQSQXKZQXQKusBmvJTZjr9p9yh862U8CIv7kKsJNu3/KrlPBg==",
+  "dgSpecHash": "rgsYbzCV+tvTP9sdAf0CzLXCgVyUgFNv0uB8KPCyZhMKEc/wQapcZL9uU+22cAuJcTpMH5JLHZvb2YsA6NBH1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\Desktop\\DataSortAlgorithm-main\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
