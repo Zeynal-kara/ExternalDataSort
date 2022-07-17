@@ -1,16 +1,21 @@
 ﻿using Core;
 
-Console.WriteLine("Process has been started...");
+public class Program {
+    
+    static async Task Main(string[] args)
+    {
+        Console.WriteLine("\nProcess has been started...\n");
 
-if (args == null || args.Length < 2)
-{
-    throw new Exception("Input and Output path arguments have to be provided.");
+        if (args == null || args.Length < 2)
+        {
+            throw new Exception("Input and Output path arguments have to be provided.");
+        }
+
+        Directory.CreateDirectory("temp");
+        File.Create(args[1]).Close();
+
+        await new Sorter().ExternalSort(args[0], args[1]);
+
+        new UnitTest().RunAllTest(args[0], args[1]);
+    }
 }
-
-Directory.CreateDirectory("temp");
-File.Create(args[1]).Close();
-
-//File.Create("output.txt").Close();
-
-await new NSorter().ExternalSort(args[0], args[1]);
-//await new NSorter().ExternalSort("input.txt", "output.txt");

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\AlgorithmTest\\AlgorithmTest.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\ExternalDataSort\\AlgorithmTest\\AlgorithmTest.csproj",
       "projectName": "AlgorithmTest",
-      "projectPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\AlgorithmTest\\AlgorithmTest.csproj",
+      "projectPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort\\AlgorithmTest\\AlgorithmTest.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\AlgorithmTest\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort\\AlgorithmTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj"
+            "C:\\Users\\asus\\Desktop\\ExternalDataSort\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort\\Core\\Core.csproj"
             }
           }
         }

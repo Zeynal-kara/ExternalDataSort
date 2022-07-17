@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj": {}
+    "C:\\Users\\asus\\Desktop\\ExternalDataSort\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj": {
+    "C:\\Users\\asus\\Desktop\\ExternalDataSort\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\ExternalDataSort\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort-main\\Core\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\ExternalDataSort\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

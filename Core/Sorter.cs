@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Core
 {
-    public class NSorter
+    public class Sorter
     {
         public async Task ExternalSort(string inputPath, string outputPath)
         {
